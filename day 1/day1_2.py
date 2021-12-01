@@ -1,4 +1,4 @@
-with open("day1_2.in") as input:
+with open("day1.in") as input:
     depths = [int(line.strip()) for line in input]
 
 # calculate all of the three-measurement sums
